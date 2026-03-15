@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PlantCare AI: Advanced Disease Detection 🌿
 ### Using Transfer Learning & Computer Vision
 
@@ -24,3 +25,7 @@ Traditional CNNs require weeks of training. This project uses a **Pre-trained Mo
 ### 2. Software & Libraries
 Ensure you have **Python 3.9+** installed. You can install the dependencies using:
 ```bash
+=======
+# AI-PlantCare
+PlantCare AI: Advanced Plant Disease Detection Using Transfer Learning
+>>>>>>> 5f7a52c4f2fde6d19d7f13f8318650ed458585f5
